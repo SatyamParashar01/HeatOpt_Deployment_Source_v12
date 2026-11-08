@@ -1,0 +1,9 @@
+city,fuel,g_co2e_per_kwh_average,g_co2e_per_kwh_marginal,source
+all,natural_gas,181.2,181.2,"EPA GHG Emission Factors Hub 2025 Table 1, combustion, HHV, AR5 GWP"
+all,heating_oil,253.2,253.2,EPA GHG Emission Factors Hub 2025 Table 1
+all,propane,210.5,210.5,EPA GHG Emission Factors Hub 2025 Table 1
+all,wood,324.0,324.0,"EPA 2025 Table 1, all CO2 counted"
+all,wood_biogenic_excluded,3.9,3.9,"EPA 2025 Table 1, CH4+N2O only"
+Boston,electricity,256.2,421.1,"eGRID2023 NEWE, delivered (incl. 4.2% line loss); marginal = non-baseload"
+Atlanta,electricity,399.9,644.5,"eGRID2023 SRSO, delivered; marginal = eGRID2022 non-baseload"
+Montreal,electricity,7.8,7.8,"Hydro-Quebec 2025 label, main grid; no marginal value"

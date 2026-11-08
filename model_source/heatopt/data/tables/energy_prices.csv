@@ -1,0 +1,223 @@
+city,scenario,year,fuel,usd_per_kwh_fuel,estimated,note
+Boston,historical,2010,electricity,0.154,False,
+Boston,historical,2010,natural_gas,0.0479,False,
+Boston,historical,2010,heating_oil,0.0751,False,
+Boston,historical,2010,propane,0.1177,False,
+Boston,historical,2010,wood,0.026,False,
+Boston,historical,2011,electricity,0.1495,False,
+Boston,historical,2011,natural_gas,0.0455,False,
+Boston,historical,2011,heating_oil,0.0868,False,
+Boston,historical,2011,propane,0.1353,False,
+Boston,historical,2011,wood,0.0312,False,
+Boston,historical,2012,electricity,0.1477,False,
+Boston,historical,2012,natural_gas,0.0435,False,
+Boston,historical,2012,heating_oil,0.0986,False,
+Boston,historical,2012,propane,0.132,False,
+Boston,historical,2012,wood,0.0348,False,
+Boston,historical,2013,electricity,0.1554,False,
+Boston,historical,2013,natural_gas,0.0444,False,
+Boston,historical,2013,heating_oil,0.0962,False,
+Boston,historical,2013,propane,0.1293,False,
+Boston,historical,2013,wood,0.0341,False,
+Boston,historical,2014,electricity,0.1758,False,
+Boston,historical,2014,natural_gas,0.0478,False,
+Boston,historical,2014,heating_oil,0.0937,False,
+Boston,historical,2014,propane,0.1405,False,
+Boston,historical,2014,wood,0.0332,False,
+Boston,historical,2015,electricity,0.1999,False,
+Boston,historical,2015,natural_gas,0.0429,False,
+Boston,historical,2015,heating_oil,0.0643,False,
+Boston,historical,2015,propane,0.1192,False,
+Boston,historical,2015,wood,0.0229,False,
+Boston,historical,2016,electricity,0.195,False,
+Boston,historical,2016,natural_gas,0.041,False,
+Boston,historical,2016,heating_oil,0.0547,False,
+Boston,historical,2016,propane,0.1165,False,
+Boston,historical,2016,wood,0.0196,False,
+Boston,historical,2017,electricity,0.2057,False,
+Boston,historical,2017,natural_gas,0.0439,False,
+Boston,historical,2017,heating_oil,0.0613,False,
+Boston,historical,2017,propane,0.1225,False,
+Boston,historical,2017,wood,0.0219,False,
+Boston,historical,2018,electricity,0.2218,False,
+Boston,historical,2018,natural_gas,0.051,False,
+Boston,historical,2018,heating_oil,0.0679,False,
+Boston,historical,2018,propane,0.128,False,
+Boston,historical,2018,wood,0.0242,False,
+Boston,historical,2019,electricity,0.2243,False,
+Boston,historical,2019,natural_gas,0.0485,False,
+Boston,historical,2019,heating_oil,0.0647,False,
+Boston,historical,2019,propane,0.1187,False,
+Boston,historical,2019,wood,0.0233,False,
+Boston,historical,2020,electricity,0.2198,False,
+Boston,historical,2020,natural_gas,0.0484,False,
+Boston,historical,2020,heating_oil,0.0521,False,
+Boston,historical,2020,propane,0.1109,False,
+Boston,historical,2020,wood,0.0192,False,
+Boston,historical,2021,electricity,0.2322,False,
+Boston,historical,2021,natural_gas,0.0528,False,
+Boston,historical,2021,heating_oil,0.063,False,
+Boston,historical,2021,propane,0.1343,False,
+Boston,historical,2021,wood,0.0231,False,
+Boston,historical,2022,electricity,0.2868,False,
+Boston,historical,2022,natural_gas,0.0674,False,
+Boston,historical,2022,heating_oil,0.0983,False,
+Boston,historical,2022,propane,0.146,False,
+Boston,historical,2022,wood,0.0357,False,
+Boston,historical,2023,electricity,0.3216,False,
+Boston,historical,2023,natural_gas,0.0706,False,
+Boston,historical,2023,heating_oil,0.0899,False,
+Boston,historical,2023,propane,0.1397,False,
+Boston,historical,2023,wood,0.0327,False,
+Boston,historical,2024,electricity,0.2997,False,
+Boston,historical,2024,natural_gas,0.0721,False,
+Boston,historical,2024,heating_oil,0.0795,False,
+Boston,historical,2024,propane,0.1424,False,
+Boston,historical,2024,wood,0.0286,False,
+Boston,historical,2025,electricity,0.3041,False,
+Boston,historical,2025,natural_gas,0.0825,False,
+Boston,historical,2025,heating_oil,0.0845,False,
+Boston,historical,2025,propane,0.1242,False,
+Boston,historical,2025,wood,0.0281,True,
+Atlanta,historical,2010,electricity,0.1007,False,
+Atlanta,historical,2010,natural_gas,0.05,False,
+Atlanta,historical,2010,heating_oil,0.0685,False,
+Atlanta,historical,2010,propane,0.0882,False,
+Atlanta,historical,2010,wood,0.0324,False,
+Atlanta,historical,2011,electricity,0.1106,False,
+Atlanta,historical,2011,natural_gas,0.0518,False,
+Atlanta,historical,2011,heating_oil,0.0916,False,
+Atlanta,historical,2011,propane,0.1013,False,
+Atlanta,historical,2011,wood,0.039,False,
+Atlanta,historical,2012,electricity,0.1117,False,
+Atlanta,historical,2012,natural_gas,0.0535,False,
+Atlanta,historical,2012,heating_oil,0.0913,False,
+Atlanta,historical,2012,propane,0.096,False,
+Atlanta,historical,2012,wood,0.0434,False,
+Atlanta,historical,2013,electricity,0.1146,False,
+Atlanta,historical,2013,natural_gas,0.0481,False,
+Atlanta,historical,2013,heating_oil,0.0947,False,
+Atlanta,historical,2013,propane,0.0957,False,
+Atlanta,historical,2013,wood,0.0425,False,
+Atlanta,historical,2014,electricity,0.1165,False,
+Atlanta,historical,2014,natural_gas,0.0476,False,
+Atlanta,historical,2014,heating_oil,0.0915,False,
+Atlanta,historical,2014,propane,0.1084,False,
+Atlanta,historical,2014,wood,0.0414,False,
+Atlanta,historical,2015,electricity,0.1154,False,
+Atlanta,historical,2015,natural_gas,0.0482,False,
+Atlanta,historical,2015,heating_oil,0.0599,False,
+Atlanta,historical,2015,propane,0.0943,False,
+Atlanta,historical,2015,wood,0.0286,False,
+Atlanta,historical,2016,electricity,0.115,False,
+Atlanta,historical,2016,natural_gas,0.048,False,
+Atlanta,historical,2016,heating_oil,0.0519,False,
+Atlanta,historical,2016,propane,0.0939,False,
+Atlanta,historical,2016,wood,0.0244,False,
+Atlanta,historical,2017,electricity,0.119,False,
+Atlanta,historical,2017,natural_gas,0.0558,False,
+Atlanta,historical,2017,heating_oil,0.0591,False,
+Atlanta,historical,2017,propane,0.103,False,
+Atlanta,historical,2017,wood,0.0273,False,
+Atlanta,historical,2018,electricity,0.1147,False,
+Atlanta,historical,2018,natural_gas,0.046,False,
+Atlanta,historical,2018,heating_oil,0.0644,False,
+Atlanta,historical,2018,propane,0.1062,False,
+Atlanta,historical,2018,wood,0.0302,False,
+Atlanta,historical,2019,electricity,0.1177,False,
+Atlanta,historical,2019,natural_gas,0.049,False,
+Atlanta,historical,2019,heating_oil,0.0629,False,
+Atlanta,historical,2019,propane,0.0952,False,
+Atlanta,historical,2019,wood,0.029,False,
+Atlanta,historical,2020,electricity,0.1202,False,
+Atlanta,historical,2020,natural_gas,0.0509,False,
+Atlanta,historical,2020,heating_oil,0.0548,False,
+Atlanta,historical,2020,propane,0.0869,False,
+Atlanta,historical,2020,wood,0.024,False,
+Atlanta,historical,2021,electricity,0.1251,False,
+Atlanta,historical,2021,natural_gas,0.0524,False,
+Atlanta,historical,2021,heating_oil,0.0655,False,
+Atlanta,historical,2021,propane,0.1043,False,
+Atlanta,historical,2021,wood,0.0288,False,
+Atlanta,historical,2022,electricity,0.138,False,
+Atlanta,historical,2022,natural_gas,0.0595,False,
+Atlanta,historical,2022,heating_oil,0.099,False,
+Atlanta,historical,2022,propane,0.1119,False,
+Atlanta,historical,2022,wood,0.0446,False,
+Atlanta,historical,2023,electricity,0.1369,False,
+Atlanta,historical,2023,natural_gas,0.0627,False,
+Atlanta,historical,2023,heating_oil,0.094,False,
+Atlanta,historical,2023,propane,0.1083,False,
+Atlanta,historical,2023,wood,0.0408,False,
+Atlanta,historical,2024,electricity,0.1408,False,
+Atlanta,historical,2024,natural_gas,0.0599,False,
+Atlanta,historical,2024,heating_oil,0.0822,False,
+Atlanta,historical,2024,propane,0.1107,False,
+Atlanta,historical,2024,wood,0.0357,False,
+Atlanta,historical,2025,electricity,0.1474,False,
+Atlanta,historical,2025,natural_gas,0.0673,False,
+Atlanta,historical,2025,heating_oil,0.0786,True,
+Atlanta,historical,2025,propane,0.1088,True,
+Atlanta,historical,2025,wood,0.0351,True,
+Montreal,historical,2010,electricity,0.0755,False,Hydro-Quebec 1000 kWh/month bill incl. GST+QST (blend of Rate D tiers)
+Montreal,historical,2010,natural_gas,0.0525,False,Quebec-wide residential (Statistics Canada)
+Montreal,historical,2010,heating_oil,0.0794,False,
+Montreal,historical,2011,electricity,0.0786,False,Hydro-Quebec 1000 kWh/month bill incl. GST+QST (blend of Rate D tiers)
+Montreal,historical,2011,natural_gas,0.0492,False,Quebec-wide residential (Statistics Canada)
+Montreal,historical,2011,heating_oil,0.1051,False,
+Montreal,historical,2012,electricity,0.0777,False,Hydro-Quebec 1000 kWh/month bill incl. GST+QST (blend of Rate D tiers)
+Montreal,historical,2012,natural_gas,0.0473,False,Quebec-wide residential (Statistics Canada)
+Montreal,historical,2012,heating_oil,0.1107,False,
+Montreal,historical,2013,electricity,0.0767,False,Hydro-Quebec 1000 kWh/month bill incl. GST+QST (blend of Rate D tiers)
+Montreal,historical,2013,natural_gas,0.045,False,Quebec-wide residential (Statistics Canada)
+Montreal,historical,2013,heating_oil,0.1071,False,
+Montreal,historical,2014,electricity,0.0735,False,Hydro-Quebec 1000 kWh/month bill incl. GST+QST (blend of Rate D tiers)
+Montreal,historical,2014,natural_gas,0.0457,False,Quebec-wide residential (Statistics Canada)
+Montreal,historical,2014,heating_oil,0.1033,False,
+Montreal,historical,2015,electricity,0.0647,False,Hydro-Quebec 1000 kWh/month bill incl. GST+QST (blend of Rate D tiers)
+Montreal,historical,2015,natural_gas,0.0368,False,Quebec-wide residential (Statistics Canada)
+Montreal,historical,2015,heating_oil,0.0725,False,
+Montreal,historical,2016,electricity,0.0628,False,Hydro-Quebec 1000 kWh/month bill incl. GST+QST (blend of Rate D tiers)
+Montreal,historical,2016,natural_gas,0.0349,False,Quebec-wide residential (Statistics Canada)
+Montreal,historical,2016,heating_oil,0.0603,False,
+Montreal,historical,2017,electricity,0.0626,False,Hydro-Quebec 1000 kWh/month bill incl. GST+QST (blend of Rate D tiers)
+Montreal,historical,2017,natural_gas,0.0366,False,Quebec-wide residential (Statistics Canada)
+Montreal,historical,2017,heating_oil,0.0687,False,
+Montreal,historical,2018,electricity,0.0633,False,Hydro-Quebec 1000 kWh/month bill incl. GST+QST (blend of Rate D tiers)
+Montreal,historical,2018,natural_gas,0.0356,False,Quebec-wide residential (Statistics Canada)
+Montreal,historical,2018,heating_oil,0.0844,False,
+Montreal,historical,2019,electricity,0.0632,False,Hydro-Quebec 1000 kWh/month bill incl. GST+QST (blend of Rate D tiers)
+Montreal,historical,2019,natural_gas,0.0343,False,Quebec-wide residential (Statistics Canada)
+Montreal,historical,2019,heating_oil,0.0793,False,
+Montreal,historical,2020,electricity,0.0625,False,Hydro-Quebec 1000 kWh/month bill incl. GST+QST (blend of Rate D tiers)
+Montreal,historical,2020,natural_gas,0.0301,False,Quebec-wide residential (Statistics Canada)
+Montreal,historical,2020,heating_oil,0.0654,False,
+Montreal,historical,2021,electricity,0.0678,False,Hydro-Quebec 1000 kWh/month bill incl. GST+QST (blend of Rate D tiers)
+Montreal,historical,2021,natural_gas,0.0342,False,Quebec-wide residential (Statistics Canada)
+Montreal,historical,2021,heating_oil,0.0864,False,
+Montreal,historical,2022,electricity,0.0671,False,Hydro-Quebec 1000 kWh/month bill incl. GST+QST (blend of Rate D tiers)
+Montreal,historical,2022,natural_gas,0.0424,False,Quebec-wide residential (Statistics Canada)
+Montreal,historical,2022,heating_oil,0.1415,False,
+Montreal,historical,2023,electricity,0.0665,False,Hydro-Quebec 1000 kWh/month bill incl. GST+QST (blend of Rate D tiers)
+Montreal,historical,2023,natural_gas,0.0396,False,Quebec-wide residential (Statistics Canada)
+Montreal,historical,2023,heating_oil,0.1236,False,
+Montreal,historical,2024,electricity,0.0676,False,Hydro-Quebec 1000 kWh/month bill incl. GST+QST (blend of Rate D tiers)
+Montreal,historical,2024,natural_gas,0.035,False,Quebec-wide residential (Statistics Canada)
+Montreal,historical,2024,heating_oil,0.1164,False,
+Montreal,historical,2025,electricity,0.0682,False,Hydro-Quebec 1000 kWh/month bill incl. GST+QST (blend of Rate D tiers)
+Montreal,historical,2025,natural_gas,0.0382,False,Quebec-wide residential (Statistics Canada)
+Montreal,historical,2025,heating_oil,0.1179,False,
+Boston,nov2026,2026,electricity,0.3048,False,EIA Aug 2026 MA average residential
+Boston,nov2026,2026,natural_gas,0.0839,False,EIA MA winter Nov 2025-Mar 2026
+Boston,nov2026,2026,heating_oil,0.152,False,MA DOER 2 Nov 2026
+Boston,nov2026,2026,propane,0.1492,False,MA DOER 2 Nov 2026
+Atlanta,nov2026,2026,electricity,0.159,False,EIA Aug 2026 GA average residential
+Atlanta,nov2026,2026,natural_gas,0.0554,False,EIA GA winter Nov 2025-Mar 2026
+Atlanta,nov2026,2026,heating_oil,0.1461,False,EIA Lower Atlantic 19 Oct 2026 (GA proxy)
+Atlanta,nov2026,2026,propane,0.1198,False,EIA GA 19 Oct 2026
+Montreal,nov2026,2026,electricity,0.0917,False,"Hydro-Quebec Rate D 2nd tier (heating kWh) from 1 Apr 2026, incl. GST+QST"
+Montreal,nov2026,2026,natural_gas,0.0382,False,Energir all-in bill ~0.5625 CAD/m3 incl. fixed charges (sizing study P7) at 0.7158 USD/CAD; replaces StatCan 0.0356 (likely excl. tax)
+Montreal,nov2026,2026,heating_oil,0.1679,False,StatCan Montreal Sep 2026
+Boston,nov2026,2026,pellets,0.0533,True,"US national average 250 USD/ton (HomeAdvisor 2025), used for every city and year"
+Atlanta,nov2026,2026,pellets,0.0533,True,"US national average 250 USD/ton (HomeAdvisor 2025), used for every city and year"
+Montreal,nov2026,2026,pellets,0.0533,True,"US national average 250 USD/ton (HomeAdvisor 2025), used for every city and year"

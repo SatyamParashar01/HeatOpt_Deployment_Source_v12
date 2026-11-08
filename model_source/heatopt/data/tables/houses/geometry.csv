@@ -1,0 +1,14 @@
+parameter,value,unit,note
+length_ew_m,12.0,m,Long (length_ew) facades face due south/north; azimuth 180 = south
+depth_ns_m,7.75,m,
+storeys,2.0,-,
+storey_height_m,2.6,m,
+ceiling_height_m,2.44,m,
+basement_height_m,2.4,m,
+basement_depth_below_grade_m,1.8,m,
+wwr_south,0.2,fraction,
+wwr_north,0.1,fraction,
+wwr_east,0.15,fraction,
+wwr_west,0.15,fraction,
+door_area_m2,4.0,m2,counted on north wall
+bedrooms,3.0,-,

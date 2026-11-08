@@ -1,0 +1,4 @@
+city,mean_annual_temp_c,winter_djf_mean_c,ashrae_996_c,ashrae_99_c,era5_996_2010_2025_c,coldest_hour_2010_2025_c,coldest_hour_tmy_c,return_20yr_min_c,return_50yr_min_c,hdd18_c_day,winter_wind_m_s,mean_rh_pct,ground_temp_c,lat,lon,station
+Boston,11,0.2,-13.6,-10.9,-13,-25.5,-20,-21.1,-22.9,3137,4.5,71.9,11,42.37,-71.02,Boston Logan TMY3 (725090)
+Atlanta,16.9,7.8,-6.3,-3.5,-5.2,-13.4,-12.8,-19,-22.1,1573,3.7,70.7,16.9,33.63,-84.43,Atlanta Hartsfield TMY3 (722190)
+Montreal,7.8,-6.2,-22.9,-20.2,-21.9,-29.2,-27.2,-31,-33.1,4200,3.8,72.6,7.8,45.47,-73.74,Montreal YUL CWEC2020 (716270)

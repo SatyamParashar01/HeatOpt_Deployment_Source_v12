@@ -1,0 +1,6 @@
+pvlib
+pydantic
+pandas
+numpy
+pytest
+matplotlib

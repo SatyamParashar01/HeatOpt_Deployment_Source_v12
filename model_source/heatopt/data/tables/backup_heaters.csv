@@ -1,0 +1,9 @@
+backup,fuel,efficiency,emission_key,forced_switch_c,hp_price_override_usd_per_kwh,cities,note
+electric_resistance,electricity,1.00,electricity,,,Boston;Atlanta;Montreal,strips or baseboards
+natural_gas,natural_gas,0.95,natural_gas,,,Boston;Atlanta;Montreal,condensing furnace
+heating_oil,heating_oil,0.85,heating_oil,,,Boston;Montreal,oil boiler
+propane,propane,0.95,propane,,,Boston;Atlanta,condensing furnace
+pellets,pellets,0.80,wood,,,Boston;Atlanta;Montreal,"pellet stove, all CO2 counted"
+pellets_biogenic,pellets,0.80,wood_biogenic_excluded,,,Boston;Atlanta;Montreal,"pellet stove, biogenic CO2 = 0 (sensitivity only)"
+wood,wood,0.70,wood,,,Boston;Atlanta,cordwood stove (not in optimiser default list)
+rate_dt_gas,natural_gas,0.95,natural_gas,-12,0.0422,Montreal,"Hydro-Quebec dual energy Rate DT: fuel forced below -12 C; HP electricity 5.131 c CAD + GST/QST = 0.0422 USD at 0.7158 USD/CAD"

@@ -1,0 +1,11 @@
+parameter,value,unit
+occupants,4.0,people
+sensible_w_per_person,75.0,W
+fraction_hours_home,0.6,fraction
+heating_setpoint_c,21.0,C
+device_lighting_led_w,60.0,W
+device_refrigerator_w,50.0,W
+device_cooking_w,60.0,W
+device_laundry_dishwasher_w,30.0,W
+device_electronics_w,90.0,W
+device_other_plug_loads_w,110.0,W

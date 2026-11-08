@@ -1,0 +1,36 @@
+source_id,source
+A1,"ASSUMPTIONS (not sourced): heat pump life 15 yr, discount 5%; backup efficiencies (oil 85%, older gas 82%, pellets 80%); Montreal heating electricity at Rate D tier 2; balance temperature 18.3C (65F); low-temperature cutoffs where not published: Carrier 25HPA5 -5F, Goodman GSZV9 -10F (lowest published row); capacity/COP held constant above the warmest datasheet point"
+C1,ACCA Manual J Table 1A design temps via heat-pumps.guide https://heat-pumps.guide/guides/verify-heat-pump-output-design-temperature
+C2,"HeatingHelp forum, MA energy code Boston design temp 7F https://forum.heatinghelp.com/discussion/comment/1218962"
+C3,MassCEC whole-home heat pump pilot updates https://www.masscec.com/blog/september-whole-home-heat-pump-pilot-update-still-time-apply ; https://www.masscec.com/node/457
+E1,"EPA GHG Emission Factors Hub (natural gas 53.06, No.2 oil 73.96, propane 62.87, wood 93.80 kg CO2/MMBtu) https://www.epa.gov/climateleadership/ghg-emission-factors-hub - standard values, verify current edition"
+E3,"EPA eGRID2023 summary tables (NEWE 539.3, SRSO 842.3 lb CO2/MWh) https://www.epa.gov/system/files/documents/2025-06/summary_tables_rev2.pdf"
+E4,"ISO-NE 2023 emissions results, Quebec import rate 3.9 lb/MWh https://www.iso-ne.com/static-assets/documents/100015/2024-09-16-2023-generator-emissions-results.pdf"
+H1,EIA Massachusetts state profile https://www.eia.gov/state/?sid=MA
+H2,"Angi Atlanta heat pump cost: average Atlanta home needs ~3-ton; ~$4,257 average (range $3,080-5,492), used as $1,419/ton https://www.angi.com/articles/how-much-does-heat-pump-cost/ga/atlanta"
+H3,Statista/Census Georgia heating fuel 2022 https://www-statista-com.ezproxy.canberra.edu.au/statistics/1231030/residential-heating-fuel-distribution-in-georgia
+H4,Coolray Georgia heat pump backup options https://coolray.com/help-guides/heat-pump-vs-air-conditioner-and-gas-furnace-for-georgia-homeowners
+H5,"Statistics Canada, How Canadians heat their homes (2021) https://www.statcan.gc.ca/o1/en/plus/2717-heat-how-canadians-heat-their-home-during-winter"
+P1,AGA Massachusetts Residential Energy Cost Analysis (EIA 2025 MA electricity 30.48 c/kWh) https://www.aga.org/wp-content/uploads/2026/09/Massachusetts-Residential-Energy-Cost-Analysis.pdf
+P2,"Mass.gov DOER Household Heating Costs 2025-26 / Boston Globe Jan 2026 ($2.03/therm, 435 therms) https://www.mass.gov/info-details/massachusetts-household-heating-costs"
+P3,"Mass.gov DOER Home Heating Fuels Prices (oil $6.17, propane $4.00, week of 11/02/2026) https://www.mass.gov/service-details/massachusetts-modern-wood-heating-prices"
+P4,"Georgia electricity rates, EIA 2026 YTD 14.49 c/kWh https://hiinformation.pages.dev/electricity/georgia/ ; Georgia Power seasonal rate https://www.ajc.com/business/2025/08/feel-like-your-georgia-power-bill-is-high-this-summer-heres-why"
+P5,"EIA Georgia residential natural gas price, annual https://www.eia.gov/dnav/ng/hist/n3010ga3a.htm"
+P6,"Hydro-Quebec Rate D and Rate DT, in force Apr 1 2026, via AirGreen https://airgreen.ca/en/pages/subvention-pour-passer-a-la-bienergie"
+P7,"Energir 2025 rate notice: single-family home 2,000 m3/yr, +0.8% = +$9/yr -> bill ~C$1,125/yr -> ~C$0.56/m3 all-in (DERIVED estimate) https://energir.com/files/energir_common/import/Fichiers/Hausse_tarifaire_FR.pdf"
+P8,HomeAdvisor wood pellet prices 2025: avg $250/ton (range $200-400) https://www.homeadvisor.com/cost/heating-and-cooling/wood-pellet-prices
+P9,"Hydro-Quebec Rate D: first 40 kWh/day at tier-1 price, rest at tier-2 https://www.hydroquebec.com/residential/customer-space/rates/rate-d-billing.html"
+S1,"Mitsubishi submittal PVA-AA36NL/PUZ-AK36NLHZ (MESCA, 8-Jan-2026, AHRI 215712216) https://thermoclima.ca/wp-content/uploads/2026/04/MESCA-submittal-PVA-AA36NL-PUZ-AK36NLHZ.pdf"
+S10,"Goodman GSZV9 spec sheet, expanded heating data GSZV903610 high stage, 65F to -10F https://cdn11.bigcommerce.com/s-tlmhs0wx2p/content/downloads/Goodman%20Split%20Heat%20Pump%20Spec%20Sheet.pdf"
+S11,"Fujitsu submittal 24KZAH1 (ASUH24KZAS + AOUH24KZAH1), AHRI 215647924: max capacity/power at 47F, 17F, 5F; operating range to -15F, no low-temperature cutout https://www.sidharvey.com/documents/ASUH24KZAS-Spec.pdf"
+S2,Mitsubishi submittal PAA-A36BA1/PUZ-HA36NKA (form 202310) as transcribed by heat-pumps.guide https://heat-pumps.guide/guides/verify-heat-pump-output-design-temperature
+S3,NEEP ccASHP record AHRI 8779046 (AOU24RLXFWH) via Intry https://www.intrysys.com/tools/hvac/cold-climate-heat-pump-capacity/fujitsu-xlth
+S4,Fujitsu ASU18/24RLF + AOU18/24RLXFWH design & technical manual https://manualmachine.com/fujitsu/aou24rlxfwh/22903878-design--technical-manual
+S5,Fujitsu ASU18RLF/ASU24RLF tech data (17F and 5F points) https://res.cloudinary.com/dzhpkjoqj/image/upload/Fujitsu/ASU18RLF-TECH
+S6,Bosch IDS Ultra spec (Jan 2026) + NEEP list via Hamptons Air https://hamptonsair.com/equipment/bosch-ids-ultra-heat-pump/
+S7,Bosch IDS Ultra product page (100% capacity at 5F at COP 2.1) https://www.bosch-homecomfort.com/us/en/ocs/residential/ids-ultra-inverter-ducted-split-cold-climate-heat-pump-20831889-p/
+S8,Daikin FIT DH9VS submittal SS-DH9VS-R32 as transcribed by heat-pumps.guide https://heat-pumps.guide/guides/verify-heat-pump-output-design-temperature
+S9,"Carrier 25HPA5 Performance Series product data, AHRI ratings 36-30 + FE4ANB006: 47F 33,600 Btu/h COP 3.90; 17F 19,400 Btu/h COP 2.56 https://www.shareddocs.com/hvac/docs/1009/Public/06/25HPA5-1PD.pdf"
+W1,"NOAA NCEI Engineering Weather Data, Boston Logan, annual dry-bulb bin hours 1967-1996; 99% heating DB 12F https://www.ncei.noaa.gov/pub/data/EngineeringWeatherData_CDROM/engwx/boston_ma.pdf"
+W2,"Atlanta Hartsfield-Jackson TMY3 EPW + DDY (99% heating DB -3.5C), NREL openstudio-standards repo https://github.com/NREL/openstudio-standards/tree/develop/data/weather"
+W3,"Montreal Intl AP CWEC2020 EPW + DDY (99% heating DB -20.2C), NREL openstudio-standards repo https://github.com/NREL/openstudio-standards/tree/develop/data/weather"

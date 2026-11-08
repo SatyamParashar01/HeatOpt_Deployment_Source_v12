@@ -1,0 +1,4 @@
+city,usd_per_ton,basis,source
+Boston,6723,"MassCEC whole-home pilot, cold-climate units, existing homes, installed","sizing study C3"
+Atlanta,1419,"Angi Atlanta average ~$4,257 for a 3-ton heat pump, installed","sizing study H2"
+Montreal,6723,"PROXY: Boston MassCEC value (no Montreal capex in team data)","GAP - replace with a Quebec quote"
